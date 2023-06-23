@@ -1,5 +1,5 @@
 # AWS-Cloud-Practitioner
-A repo containing pdfs of every module in cloud practitioner essentials
+A repo containing pdfs of every module in the AWS cloud practitioner essentials course
 
 ## Author
 
