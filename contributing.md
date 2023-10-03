@@ -8,4 +8,4 @@ If you find any errors or have additional insights to share, please fork this re
 Your contributions are greatly appreciated!
 
 
-You can also send an email to me via [Email](mailto:sam@samuelbarden.com) to notify me.
+You can also send an email to me via [email](mailto:sam@samuelbarden.com) to notify me.
