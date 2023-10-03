@@ -30,9 +30,7 @@ I covered every topic in the AWS cloud practitioner essentials course.
  - Module 12 - Final Assessment
 
 
-
-## What experience you'll need
-
+----------------------------------------------------
 Access the course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 ## Contributing
