@@ -1,6 +1,7 @@
 # AWS Cloud Practitioner Essentials Notes
 
 Welcome to the AWS Cloud Practitioner Essentials Notes repository! 
+<br>
 This repository contains comprehensive notes from each of the modules in the AWS Cloud Practitioner Essentials course. Whether you are a beginner looking to understand the basics of Amazon Web Services or preparing for the AWS Certified Cloud Practitioner examination, these notes will serve as a valuable resource to enhance your knowledge.
 
 ## Author
@@ -32,11 +33,7 @@ I covered every topic in the AWS cloud practitioner essentials course.
 
 ## What experience you'll need
 
-AWS recommends that you have:
-
-  - General IT business knowledge
-  - General IT technical knowledge
-  - [Access the course directly](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+Access the course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 ## Contributing
 
@@ -51,6 +48,3 @@ Stay Clouding!
 
 ---------------------------------------------------------
 #### Don't forget to star this repo
-
-## How to Use This Repository
-Feel free to explore the notes in each module folder to enhance your understanding of AWS Cloud Practitioner Essentials concepts. Whether you're a beginner or an experienced professional, these notes will help you grasp essential AWS services and prepare for certification.
