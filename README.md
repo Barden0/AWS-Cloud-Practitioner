@@ -30,9 +30,6 @@ I covered every topic in the AWS cloud practitioner essentials course.
  - Module 12 - Final Assessment
 
 
-----------------------------------------------------
-Access the course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
-
 ## Contributing
 
 Contributions are always welcome!
@@ -44,5 +41,7 @@ Best of luck with your AWS Cloud Practitioner journey!
 
 Stay Clouding!
 
----------------------------------------------------------
+----------------------------------------------------
+Access the course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+
 #### Don't forget to star this repo
