@@ -1,8 +1,9 @@
 # AWS Cloud Practitioner Essentials Notes
 
 Welcome to the AWS Cloud Practitioner Essentials Notes repository! 
-<br>
-This repository contains comprehensive notes from each of the modules in the AWS Cloud Practitioner Essentials course. Whether you are a beginner looking to understand the basics of Amazon Web Services or preparing for the AWS Certified Cloud Practitioner examination, these notes will serve as a valuable resource to enhance your knowledge.
+This repository contains comprehensive notes from each of the modules in the AWS Cloud Practitioner Essentials course. 
+
+Whether you are a beginner looking to understand the basics of Amazon Web Services or preparing for the AWS Certified Cloud Practitioner examination, these notes will serve as a valuable resource to enhance your knowledge.
 
 ## Author
 
