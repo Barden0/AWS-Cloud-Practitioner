@@ -43,6 +43,6 @@ Best of luck with your AWS Cloud Practitioner journey!
 Stay Clouding!
 
 ----------------------------------------------------
-Access the course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+Access the AWS Cloud Practitioner Essentials course [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
 
 #### Don't forget to star this repo
